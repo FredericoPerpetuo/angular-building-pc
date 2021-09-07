@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Processador Intel Core i3-10100F",
+      "descripition": "Cache 6MB, 4.30 GHz, LGA 1200 - BX8070110100F",
+      "price": 759.9
+    },
+    {
+      "id": 2,
+      "name": "Processador Intel Core i5-10400",
+      "descripition": "Cache 12MB, 2.9GHz (4.3GHz Max Turbo), LGA 1200 ",
+      "price": 1149.9
+    },
+    {
+      "id": 3,
+      "name": "Processador Intel 11700",
+      "descripition": "Core I7 (1200) 2,50 Ghz Box - Bx8070811700 - 11a Ger",
+      "price": 2649
+    },
+    {
+      "id": 4,
+      "name": "Processador Intel 10900kf",
+      "descripition": "Core I9 5,30 Ghz Box - Bx8070110900kf",
+      "price": 4090
+    }
+  ]
+}
